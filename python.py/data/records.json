@@ -1,0 +1,31 @@
+{
+    "patients": [
+        {
+            "name": "amit kumar",
+            "age": 22,
+            "patient_id": "P101",
+            "disease": "Fever",
+            "status": "Admitted"
+        },
+        {
+            "name": "Rohan",
+            "age": 27,
+            "patient_id": "P103",
+            "disease": "Ashtma",
+            "status": "Admitted"
+        }
+    ],
+    "doctors": [
+        {
+            "name": "Dr. Mehta",
+            "specialization": "Cardiology",
+            "doctor_id": "D201"
+        },
+        {
+            "name": "Dr.ravi",
+            "specialization": "Pulmonology",
+            "doctor_id": "D203"
+        }
+    ],
+    "assignments": {}
+}
